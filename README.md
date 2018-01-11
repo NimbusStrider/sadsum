@@ -17,7 +17,7 @@ The algorithm:
     do
     {
         Get newByte from file
-        x = x + prime
+        x = x - 1
         y = y + newByte + 1
         table(x) = table(x) + table(y)
 
