@@ -1,6 +1,8 @@
 # sadsum
 Simple Action Digest (SAD) - Hashing Algorithm
 
+EDIT: Major flaws in this algorithm. Project will be restarted later.
+
 Internal state:
 
     table()
